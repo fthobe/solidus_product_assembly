@@ -26,7 +26,7 @@ flag on each product you want to be part of the bundle. Then create a product
 and add parts to it. By doing that you're making that product an assembly.
 
 The store will treat assemblies a bit different than regular products on checkout.
-Spree will create and track inventory units for its parts rather than for the product itself.
+Solidus will create and track inventory units for its parts rather than for the product itself.
 That means you essentially have a product composed of other products. From a
 customer perspective it's like they are paying a single amount for a collection
 of products.
